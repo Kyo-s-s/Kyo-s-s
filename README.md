@@ -1,7 +1,8 @@
 はとです　ぽっぽー！
 
-[![Badge](https://cp-logo.vercel.app/atcoder/Kyo_s_s)]
-[![Badge](https://cp-logo.vercel.app/codeforces/Kyo_s_s)]
+
+![Badge](https://cp-logo.vercel.app/atcoder/Kyo_s_s)
+![Badge](https://cp-logo.vercel.app/codeforces/Kyo_s_s)
 
 
 <!--
