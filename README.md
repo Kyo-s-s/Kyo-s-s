@@ -1,4 +1,4 @@
-はとです　ぽっぽー！
+はとです　ぽっぽー！ 
 
 
 ![Badge](https://cp-logo.vercel.app/atcoder/Kyo_s_s)
@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kyo-s-s&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=Kyo-s-s)](https://github.com/KATO-Hiro/AtCoderTrophies)
+[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=Kyo_s_s&theme=onedark&row=1&column=7)](https://github.com/KATO-Hiro/AtCoderTrophies)
