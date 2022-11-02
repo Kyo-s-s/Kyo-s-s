@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kyo-s-s&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=Kyo-s-s)](https://github.com/KATO-Hiro/AtCoderTrophies)
