@@ -2,7 +2,6 @@
 
 
 [![Rating](https://badgen.org/img/atcoder/Kyo_s_s/rating/algorithm?style=flat-square)](https://atcoder.jp/users/Kyo_s_s?contestType=algo)
-
 [![Rating(Heuristic)](https://badgen.org/img/atcoder/Kyo_s_s/rating/heuristic?style=flat-square)](https://atcoder.jp/users/Kyo_s_s?contestType=heuristic)
 
 <!--
