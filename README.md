@@ -1,9 +1,9 @@
 はとです　ぽっぽー！ 
 
 
-![Badge](https://cp-logo.vercel.app/atcoder/Kyo_s_s)
-![Badge](https://cp-logo.vercel.app/codeforces/Kyo_s_s)
+[![Rating](https://badgen.org/img/atcoder/Kyo_s_s/rating/algorithm?style=flat-square)](https://atcoder.jp/users/Kyo_s_s?contestType=algo)
 
+[![Rating(Heuristic)](https://badgen.org/img/atcoder/Kyo_s_s/rating/heuristic?style=flat-square)](https://atcoder.jp/users/Kyo_s_s?contestType=heuristic)
 
 <!--
 **Kyo-s-s/Kyo-s-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
